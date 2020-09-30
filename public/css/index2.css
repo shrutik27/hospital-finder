@@ -1,0 +1,47 @@
+.main-part{
+    padding-left:60px;
+    background-color: cadetblue;
+}
+.main-part b,section{
+    font-size:50px;
+    padding-top: 1000px;
+}
+
+.main-part b{
+    text-decoration: none;
+    color:black;
+    display: block;
+    padding-top: 100px;
+    padding-left:20px;
+  }
+ .main-content{
+padding-top:50px;
+padding-left: 25px;
+ }
+ .card-subtitle{
+     padding-top:10px;
+     font-size:20px;
+ }
+ .card-text{
+     font-size:15px;
+     padding-top: 40px;
+ }
+ .card-text button{
+     border-radius: 10%;
+     text-align: center; 
+     display: block; 
+      margin-left:auto;
+      margin-right: auto; 
+      width:15rem;
+      background-color:rgb(231, 223, 223)
+ }
+
+  @media screen and (max-width: 600px) {
+    .main-part {
+        text-decoration: none;
+        color:black;
+        display: block;
+        padding-top: 00px;
+        padding-left:20px;
+    }
+}

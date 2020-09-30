@@ -1,0 +1,39 @@
+.last-main{
+    padding-left:100px; 
+}
+.last-main p{
+ font-size: x-large;
+
+}
+.work-list{
+        border-left: 5px solid rgb(231, 223, 223); 
+        height:auto; 
+        padding-left: 30px;     
+}
+.work-list p{
+    font-size:large;
+
+}
+.border-block{
+    border-style: solid;
+    border-width: thin;
+    border-color: rgb(201, 197, 197); 
+}
+.appointment{
+    padding-top:20px;
+    border-style: solid;
+    border-width: thin;
+    border-color: rgb(201, 197, 197);
+    border-spacing: 10px; 
+}
+.map button{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10%;
+    max-width: auto;
+    color:black;
+    padding-top: 0%;
+}
+.map p{
+font-size: x-large;
+}
+
